@@ -12,6 +12,8 @@
 #     jobs:
 #       - welcome/run
 
+version: 2
+
 jobs:
   test:
     docker:
